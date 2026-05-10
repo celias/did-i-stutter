@@ -2,8 +2,6 @@
 
 A speech fluency analyzer built with React, Deepgram, and Claude. Record yourself speaking, get instant feedback on filler words, false starts, pacing, and an overall fluency score.
 
-**Live demo:** https://did-i-stutter.gabdiventura.com
-
 ## What it does
 
 1. Click **Record** and speak for 30–60 seconds
